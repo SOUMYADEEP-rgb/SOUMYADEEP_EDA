@@ -314,7 +314,7 @@ The project incorporates the following techniques:
 - Multivariate plots
 - 3D visualizations
 
-### Clustering
+### Clustering and PCA 
 
 - K-Means clustering
 - Elbow method
@@ -322,6 +322,7 @@ The project incorporates the following techniques:
 - Hierarchical clustering
 - Ward linkage
 - Dendrogram
+- Calculation of principal components
 - PCA-based cluster visualization
 
 ---
